@@ -20,6 +20,7 @@
     │       زبان ریاضی.pptx
     │       سه پروژه کاربردی هوش مصنوعی .pptx
     │       هندسه های اقلیدسی و نااقلیدسی.pptx
+    │       Method For Maze Solving Algorithms.ppt
     │
     ├───programming
     │       JavaScript.pptx
